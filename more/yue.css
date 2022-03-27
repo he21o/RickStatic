@@ -11,6 +11,20 @@
         top:45px;                        
         }       
 
+        .card{
+        width:120px;
+        height:120px;  
+        box-shadow: 0 3px 5px 0 rgba(0,0,0,0.2),0 3px 5px 0 rgba(0,0,0,0.19);     
+        text-align: center; 
+        background-color: white; 
+        border-radius: 15px; 
+        position: absolute;
+
+        left:44px;
+        top:45px;                        
+        }       
+
+       
        .waves{
         position:relative;
         cursor:pointer;
