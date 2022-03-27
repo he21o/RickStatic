@@ -33,14 +33,6 @@
     transform:scale(0);
     pointer-events:none
 }
-.ts-btn{
-    width: 200px;
-    height: 56px;
-    line-height: 56px;
-    background: #f57035;
-    color: #fff;
-    border-radius: 5px;
-}
         
         .header{
             background-color:#d0e4fe ;
