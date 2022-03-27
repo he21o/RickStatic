@@ -1,0 +1,37 @@
+        .card{
+        width: 265px;
+        height:145px;  
+        box-shadow: 0 3px 5px 0 rgba(0,0,0,0.2),0 3px 5px 0 rgba(0,0,0,0.19);     
+        text-align: center; 
+        background-color: #ffff; 
+        border-radius: 15px; 
+        position: absolute;
+
+        left: 46px;
+        top:45px;                        
+        }       
+        
+        .header{
+            background-color:#d0e4fe ;
+            color: #fff;
+            padding: 10px;
+            font-size: 40px;
+        }
+        .p{
+       position: absolute; 
+        top:80px;
+        left:102px;
+        color:#585858 ; 
+        }      
+        .img{
+        position: absolute; 
+        top:35px;
+        left:105px;        
+        }      
+        .head{
+            padding: 15px;   
+            color: #fff;                   
+        }   
+          body{       
+       background-color:#d0e4fe;
+        }
