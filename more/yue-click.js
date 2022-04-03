@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded',function(){
 
-      var duration = 250;
+      var duration = 750;
 
       // 样式string拼凑
       var forStyle = function(position){
