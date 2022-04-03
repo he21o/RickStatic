@@ -1,5 +1,5 @@
         .card{
-        width: 265px;
+        width: 300px;
         height:145px;  
         box-shadow: 0 3px 5px 0 rgba(0,0,0,0.2),0 3px 5px 0 rgba(0,0,0,0.19);     
         text-align: center; 
@@ -12,8 +12,8 @@
         }       
 
         .card-2{
-        width:132.5px;
-        height:132.5px;  
+        width:150px;
+        height:150px;  
         box-shadow: 0 3px 5px 0 rgba(0,0,0,0.2),0 3px 5px 0 rgba(0,0,0,0.19);     
         text-align: center; 
         background-color: white; 
@@ -21,6 +21,7 @@
         position: absolute;
 
         left:44px;
+        right:5px;
         top:45px;                        
         }       
  
