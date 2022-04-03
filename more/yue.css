@@ -47,30 +47,6 @@
        transform:scale(0);
       pointer-events:none
       }
-
-     .waves-2{
-        position:relative;
-        cursor:pointer;
-        display:inline-block;
-        overflow:hidden;
-        text-align: center;
-        -webkit-tap-highlight-color:transparent;
-        z-index:1;
-        }
-
-      .waves-2 .waves-animation-2{
-         position:absolute;
-         border-radius:5%;
-         width:50px;
-        height:50px;
-       opacity:0;
-      background:rgba(220,220,220,1);
-      transition:all 1s ease-out;
-       transition-property:transform, opacity, -webkit-transform;
-       -webkit-transform:scale(0);
-       transform:scale(0);
-      pointer-events:none
-      }
       
       .title{
        font-size:28px;
